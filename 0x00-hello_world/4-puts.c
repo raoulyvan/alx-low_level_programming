@@ -1,13 +1,15 @@
-#inclede <stdio.h>
+#include <stdio.h>
 /**
+ * 
  *
- * * main - Printing
- *
- * *
- *
- * * Return: Always 0 (Successful)
- *
- * */
+
+* main - Printing
+*
+* *
+*
+* * Return: Always 0 (Successful)
+*
+* */
 
 int main(void)
 
